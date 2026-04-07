@@ -2,24 +2,24 @@ repositories:
   attracts_bridge:
     type: git
     url: git@github.com:robot-trainee/attracts_bridge.git
-    version: main
+    version: 18cd7f3a3f2cb9bee92733bbdd4a15c5339a531e
   attracts_description:
     type: git
     url: git@github.com:robot-trainee/attracts_description.git
-    version: main
+    version: e82c60c7d058bc58259a0369126fc5625fd35d36
   attracts_interface:
     type: git
     url: git@github.com:robot-trainee/attracts_interface.git
-    version: main
+    version: 484a7099538578853442d92cdb4eeb671b532bac
   attracts_msgs:
     type: git
     url: git@github.com:robot-trainee/attracts_msgs.git
-    version: main
+    version: 2e06c055c969ae18b5f8c879b4c2451a8535ab67
   rabcl:
     type: git
     url: git@github.com:robot-trainee/rabcl.git
-    version: main
+    version: 33fa00569b48fa29afeb46311bc6ef43546165f0
   rabcl_ros2:
     type: git
     url: git@github.com:robot-trainee/rabcl_ros2.git
-    version: main
+    version: 602f8589f9f17475264a2fae232a3a5141cf0380
