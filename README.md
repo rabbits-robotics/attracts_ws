@@ -1,6 +1,8 @@
 # attracts_ws
 ATTRACTS向け開発ロボット用のROS2パッケージ群の環境構築用リポジトリ
 
+[![CI](https://github.com/rabbits-robotics/attracts_ws/actions/workflows/ci.yml/badge.svg)](https://github.com/rabbits-robotics/attracts_ws/actions/workflows/ci.yml)
+
 ## 事前準備
 ### RaspberryPi5+Ubuntu24.04+m.2SSDBoot
 - これを参照
